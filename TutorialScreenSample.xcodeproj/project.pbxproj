@@ -22,7 +22,7 @@
 		2933C9121E77089C001828F7 /* FAChildVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2933C9111E77089C001828F7 /* FAChildVC.swift */; };
 		2933C9151E7722EC001828F7 /* FAView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2933C9131E7722EC001828F7 /* FAView.swift */; };
 		2933C9161E7722EC001828F7 /* UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2933C9141E7722EC001828F7 /* UIView.swift */; };
-		296410DA1E79C2E700299588 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 296410D91E79C2E700299588 /* README.md */; };
+		296410DC1E79C92600299588 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 296410DB1E79C92600299588 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,7 +64,7 @@
 		2933C9111E77089C001828F7 /* FAChildVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FAChildVC.swift; sourceTree = "<group>"; };
 		2933C9131E7722EC001828F7 /* FAView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FAView.swift; sourceTree = "<group>"; };
 		2933C9141E7722EC001828F7 /* UIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIView.swift; sourceTree = "<group>"; };
-		296410D91E79C2E700299588 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		296410DB1E79C92600299588 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +95,7 @@
 		292932F11E74588900008F39 = {
 			isa = PBXGroup;
 			children = (
+				296410DB1E79C92600299588 /* README.md */,
 				292932FC1E74588900008F39 /* FAParallaxTutorialScreens */,
 				292933111E74588A00008F39 /* TutorialScreenSampleTests */,
 				2929331C1E74588A00008F39 /* TutorialScreenSampleUITests */,
@@ -115,7 +116,6 @@
 		292932FC1E74588900008F39 /* FAParallaxTutorialScreens */ = {
 			isa = PBXGroup;
 			children = (
-				296410D91E79C2E700299588 /* README.md */,
 				296410D31E79B66E00299588 /* AppDelegate */,
 				296410D21E79B65900299588 /* Background Image */,
 				296410D11E79AD7400299588 /* FAUtility */,
@@ -365,7 +365,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				296410DA1E79C2E700299588 /* README.md in Sources */,
+				296410DC1E79C92600299588 /* README.md in Sources */,
 				2933C9161E7722EC001828F7 /* UIView.swift in Sources */,
 				292933001E74588900008F39 /* ViewController.swift in Sources */,
 				2933C9151E7722EC001828F7 /* FAView.swift in Sources */,
