@@ -4,7 +4,7 @@ Parallax Introductory Screens !
 [![Swift version](https://img.shields.io/badge/swift-3.0-orange.svg?style=flat.svg)](https://img.shields.io/badge/swift-3.0-orange.svg?style=flat.svg)
 
 
-![Alt text](http://i.imgur.com/w5MSnE9.gif "FAParallaxTutorialScreens-Gif")
+![Alt text](http://i.imgur.com/OaJOS3g.gif "FAParallaxTutorialScreens-Gif")
 
 ![Alt text](http://i.imgur.com/wjlw6gy.jpg "FAParallaxTutorialScreens-Image")
 
