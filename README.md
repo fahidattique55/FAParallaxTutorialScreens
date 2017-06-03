@@ -1,5 +1,5 @@
-# FAParallaxTutorialScreens
-Parallax Introductory Screens !
+![Alt text](http://i.imgur.com/caLjqhI.png "FAParallaxTutorialScreens-logo")
+
 
 [![Swift version](https://img.shields.io/badge/swift-3.0-orange.svg?style=flat.svg)](https://img.shields.io/badge/swift-3.0-orange.svg?style=flat.svg)
 
