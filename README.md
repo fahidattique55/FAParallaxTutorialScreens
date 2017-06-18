@@ -1,19 +1,16 @@
 ![Alt text](http://i.imgur.com/caLjqhI.png "FAParallaxTutorialScreens-logo")
 
 
-![Alt text](http://i.imgur.com/HhrtBbu.gif "FAParallaxTutorialScreens-Gif")
 
+<p align="center">
+    <a href="http://i.imgur.com/OR431a6.gif">
+        <img src="http://i.imgur.com/OR431a6.gif" height="450">
+    </a>
+</p>
 
 
 [![Swift version](https://img.shields.io/badge/swift-3.0-orange.svg?style=flat.svg)](https://img.shields.io/badge/swift-3.0-orange.svg?style=flat.svg)
 
-
-
-
-
-![Alt text](http://i.imgur.com/OaJOS3g.gif "FAParallaxTutorialScreens-Gif")
-
-![Alt text](http://i.imgur.com/wjlw6gy.jpg "FAParallaxTutorialScreens-Image")
 
 
 
